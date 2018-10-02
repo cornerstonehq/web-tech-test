@@ -9,7 +9,7 @@ So, if you want to use a framework/library, we require React, otherwise, please 
 
 Please spend up to around 2 hours on this task.
 
-## Criteria
+## Requirements
 
 - If you've chosen React, use [create-react-app][rca] for the project base and [react-router-dom][rrd] for routing
 
